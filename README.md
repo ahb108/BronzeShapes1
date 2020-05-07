@@ -1,2 +1,2 @@
 # BronzeShapes1
-Crowdsourcing project to capture the outline shapes of Bronze Ag axes
+A MicroPasts/Pybossa crowdsourcing project to capture the outline shapes of Bronze Age axes
